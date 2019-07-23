@@ -16,13 +16,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                     <string>com.okoxy.beihai</string><!--修改这里-->
+                     <string>tanwei.ab.c</string><!--修改这里-->
                      <key>bundle-version</key>
-                    <string>1.31.1287</string><!--修改这里-->
+                    <string>2</string><!--修改这里-->
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>哦靠炫衣</string><!--修改这里-->
+                    <string>助赢</string><!--修改这里-->
                 </dict>
             </dict>
         </array>
